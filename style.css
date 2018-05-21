@@ -1,0 +1,47 @@
+p, a {
+    color: darkred;
+}
+h1 {
+	color:blue;
+	border-style: dashed;
+	    border-width: 3px;
+	    border-left-width: 10px;
+	    border-right-width: 10px;
+	    border-color: skyblue;
+}
+h2 {
+	color:darkblue;
+	background-color: #ccc;
+	    margin: 10px;
+	    padding: 20px;
+}
+ul {
+	color: #0000cc;
+}
+tr{
+	color: darkgreen;
+}
+
+#yellow {
+	background-color: #ffff00;
+    
+}
+.orange{
+	color:#ff6411;
+}
+.darkorange{
+	color:#b34c02;
+}
+.purple{
+	color:#b302ff;
+	font-family: "Lucida Console", monospace;
+} 
+
+h3{
+	border-style: groove;
+	border-color: magenta;
+	color:#b302ff;
+	font-weight: bold;
+	font-family: "Lucida Console", impact, monospace;
+	margin: 0px;
+}
